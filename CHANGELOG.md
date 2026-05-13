@@ -8,3 +8,6 @@ All notable changes to NexusChain are documented here.
 
 ## [2026-02-24]
 - Improve logging and error messages
+
+## [2026-05-13]
+- Improve logging and error messages
