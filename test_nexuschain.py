@@ -31,7 +31,3 @@ class TestNexusChain:
     def test_run_succeeds(self):
         app = NexusChain(verbose=False)
         assert app.run() is True
-
-# added 2025-11-13 — maintenance case 5
-def test_maintenance_case_5():
-    assert True  # NexusChain regression sentinel
